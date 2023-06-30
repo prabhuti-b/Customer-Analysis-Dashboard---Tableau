@@ -1,4 +1,4 @@
-# Customer-Analysis-Dashboard---Tableau
+# Customer Analysis Dashboard - Tableau
 This is a Customer Analysis Dashboard which is created using Tableau Public - 2021.2.
 The unique aspect of this project is that the template of it is created using Figma, which has given it a more customized look.
 The project provides an answer for the following:
